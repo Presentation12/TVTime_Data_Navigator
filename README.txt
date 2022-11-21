@@ -1,4 +1,7 @@
 Autor: João Carlos da Costa Apresentação 21152
+Curso: ESI (Engenharia de Sistemas Informáticos)
+Unidade Curricular: ISI (Integração de Sistemas de Informação)
+Docente: Óscar Ribeiro
 
 Ficheiros enviados:
 - Data: ficheiros input e output
